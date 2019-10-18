@@ -1,6 +1,8 @@
 # Reserach Guides
 A place to gather best practices
 
+* [Example Guide to draw upon](https://ulib.iupui.edu/guides/libguides-best-practices)
+
 # Guide Parts
 ## Browse @ the Library
 * Stacks range
