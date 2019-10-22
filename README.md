@@ -25,7 +25,7 @@ Call Numbers should always be displayed with spaces
 
 ## H2 Print Magazines (if exists)
 * Use if there is a small sample.  For example
-* ![art magazines](media/pmags.png)
+* ![art magazines](media/pmags.PNG) 
  
 # III. Reference Sources
 ## H2 Reference Sources
