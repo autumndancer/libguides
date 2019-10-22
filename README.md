@@ -1,8 +1,6 @@
 # Reserach Guides
 A place to gather best practices
 
-* [Example Guide to draw upon for Ro](https://ulib.iupui.edu/guides/libguides-best-practices)
-
 # Guide Parts
 
 # I. Intro Statement
@@ -49,11 +47,14 @@ RSS Feed (Get code from Chrystie)
 * Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
 
 ## Journals/pMags together
-* [journals and mags](/media/journamags.png)
+* [journals and mags](media/journamags.png) 
 
 
 
 <hr>
+
+
+* [Example Guide to draw upon for Ro](https://ulib.iupui.edu/guides/libguides-best-practices)
 
 # Database Training & Orientation Videos - Put these in "auth_dbs" posts.
 * eLibrary Training Video 
