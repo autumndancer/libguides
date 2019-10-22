@@ -16,8 +16,9 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
 # II. pBooks
  ## Browse the Stacks
 * Stacks range
-** Simple - use [dropcap]##[/dropcap] (max 2 letters).
-** Complex - use [spoiler][/spoiler] 
+    * Simple - use [dropcap]##[/dropcap] (max 2 letters).
+    * Complex - use [spoiler][/spoiler]
+    * Combo - [see example](http://librarywp.whatcom.edu/home/polisci/)
 * Print mags
 * Anything else?
  
