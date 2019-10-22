@@ -21,7 +21,7 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
 
 ## H2 Print Magazines (if exists)
 * Use if there is a small sample.  For example
-![art magazines](media/pmags.png)
+* ![art magazines](media/pmags.png)
  
 # III. Reference Sources
 ## H2 Reference Sources
@@ -35,7 +35,7 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
 Featured Database
 [row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
 [column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
-* ![display feature db](media/featuredb.png)
+* ![display feature db](media/featureddb.png)
 
 # V. eBooks
 RSS Feed (Get code from Chrystie)
