@@ -21,7 +21,7 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
 
 ## H2 Print Magazines (if exists)
 * Use if there is a small sample.  For example
-![art magazines](/media/pmags.png)
+![art magazines](media/pmags.png)
  
 # III. Reference Sources
 ## H2 Reference Sources
@@ -35,7 +35,7 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
 Featured Database
 [row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
 [column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
-* [display feature db](/media/featuredb.png)
+* ![display feature db](media/featuredb.png)
 
 # V. eBooks
 RSS Feed (Get code from Chrystie)
@@ -47,11 +47,16 @@ RSS Feed (Get code from Chrystie)
 * Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
 
 ## Journals/pMags together
-* [journals and mags](media/journamags.png) 
+* ![journals and mags](media/journamags.png) 
 
 
 
 <hr>
+
+
+
+
+
 
 
 * [Example Guide to draw upon for Ro](https://ulib.iupui.edu/guides/libguides-best-practices)
