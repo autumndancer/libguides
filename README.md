@@ -13,30 +13,23 @@ Note: Not a heading level.  Examples:
 When in a Tabbed Area, can be under the H2 tab title "Introduction"
 * Political Science is the study of systems of government, politics, and power. WCC offers courses on Political Science including Political Theory, American Governement, International Relations, and Comparative Government. This guide is meant to help students find the best sources for both within the libraries collection and on the open web, as well as resources for keeping current on political news and events. [see here](http://librarywp.whatcom.edu/home/polisci/)
 
-# II. pBooks
- ## Browse the Stacks
+# II. Print materials
+
+## H2 Browse the Stacks
 * Stacks range
     * Simple - use [dropcap]##[/dropcap] (max 2 letters).
     * Complex - use [spoiler][/spoiler]
     * Combo - [see example](http://librarywp.whatcom.edu/home/polisci/)
 
-## Print magazines
+## H2 Print Magazines (if exists)
 * Use if there is a small sample.  For example
-"Browse & read in the library! Title include ARTnews, Art in America & Woman's Art Journal"
+![art magazines](/media/journamags.png)
  
-## Streaming Media
+## III. Streaming Media
 * FOD categories
 * Ted Talk Categories
 * Anything else?
 
-
-
-## Box: Journals 
-* Use [A-Z Journals]
-* Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
-### In Print @ the Library
-* Picture of mags and list and link to online version if exists.
-[pic of box](
 
 # IV. Featured Databases (if exists)
 Featured Database
@@ -44,8 +37,15 @@ Featured Database
 [column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
 
 # V. eBooks
-RSS Feed
-![EBSCO RSS Feed](media/rssebsco.png)
+RSS Feed (Get code from Chrystie)
+* ![EBSCO RSS Feed](media/rssebsco.png)
+
+# VI. Journals 
+* Use [A-Z Journals]
+* Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
+### In Print @ the Library
+* Picture of mags and list and link to online version if exists.
+[pic of box](
 
 
 # Database Training & Orientation Videos - Put these in "auth_dbs" posts.
