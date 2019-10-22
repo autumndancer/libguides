@@ -36,7 +36,6 @@ Call Numbers should always be displayed with spaces
 
 
 # IV. Featured Databases (if exists)
-Featured Database
 [row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
 [column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
 * ![display feature db](media/featureddb.png)
