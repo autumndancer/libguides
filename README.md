@@ -1,7 +1,7 @@
 # Reserach Guides
 A place to gather best practices
 
-* [Example Guide to draw upon](https://ulib.iupui.edu/guides/libguides-best-practices)
+* [Example Guide to draw upon for Ro](https://ulib.iupui.edu/guides/libguides-best-practices)
 
 # Guide Parts
 
@@ -19,20 +19,34 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
     * Simple - use [dropcap]##[/dropcap] (max 2 letters).
     * Complex - use [spoiler][/spoiler]
     * Combo - [see example](http://librarywp.whatcom.edu/home/polisci/)
-* Print mags
-* Anything else?
+
+## Print magazines
+* Use if there is a small sample.  For example
+"Browse & read in the library! Title include ARTnews, Art in America & Woman's Art Journal"
  
 ## Streaming Media
 * FOD categories
 * Ted Talk Categories
 * Anything else?
- 
+
+
+
 ## Box: Journals 
 * Use [A-Z Journals]
 * Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
 ### In Print @ the Library
 * Picture of mags and list and link to online version if exists.
 [pic of box](
+
+# IV. Featured Databases (if exists)
+Featured Database
+[row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
+[column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
+
+# V. eBooks
+RSS Feed
+![EBSCO RSS Feed](media/rssebsco.png)
+
 
 # Database Training & Orientation Videos - Put these in "auth_dbs" posts.
 * eLibrary Training Video 
