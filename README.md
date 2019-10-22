@@ -23,29 +23,33 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
 
 ## H2 Print Magazines (if exists)
 * Use if there is a small sample.  For example
-![art magazines](/media/journamags.png)
+![art magazines](/media/pmags.png)
  
-## III. Streaming Media
-* FOD categories
-* Ted Talk Categories
-* Anything else?
+# III. Reference Sources
+## H2 Reference Sources
+* [icon name="film"] FOD Category
+* [icon name="book"] Credo Topics: Geography. Expert background information for your research. 
+
+
 
 
 # IV. Featured Databases (if exists)
 Featured Database
 [row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
 [column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
+* [display feature db](/media/featuredb.png)
 
 # V. eBooks
 RSS Feed (Get code from Chrystie)
 * ![EBSCO RSS Feed](media/rssebsco.png)
 
 # VI. Journals 
-* Use [A-Z Journals]
-* Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
-### In Print @ the Library
-* Picture of mags and list and link to online version if exists.
-[pic of box](
+* Mention: [A-Z Journals]
+* Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
+
+## Journals/pMags together
+* [journals and mags](/media/journalmags.png)
+
 
 
 # Database Training & Orientation Videos - Put these in "auth_dbs" posts.
