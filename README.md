@@ -13,6 +13,10 @@ When in a Tabbed Area, can be under the H2 tab title "Introduction"
 
 # II. Print materials
 
+Call Numbers should always be displayed with spaces
+
+**HB 345** .F45U78 2009
+
 ## H2 Browse the Stacks
 * Stacks range
     * Simple - use [dropcap]##[/dropcap] (max 2 letters).
