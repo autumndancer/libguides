@@ -44,13 +44,16 @@ RSS Feed (Get code from Chrystie)
 * ![EBSCO RSS Feed](media/rssebsco.png)
 
 # VI. Journals 
+* Example top journals we have access to (OA or db) 
 * Mention: [A-Z Journals]
 * Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
 
 ## Journals/pMags together
-* [journals and mags](/media/journalmags.png)
+* [journals and mags](/media/journamags.png)
 
 
+
+<hr>
 
 # Database Training & Orientation Videos - Put these in "auth_dbs" posts.
 * eLibrary Training Video 
