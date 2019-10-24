@@ -1,4 +1,4 @@
-# Reserach Guides
+# Research Guides
 A place to gather best practices
 
 # Guide Parts
@@ -6,10 +6,10 @@ A place to gather best practices
 # I. Intro Statement
 Note: Not a heading level.  Examples:
 * **Objective:** To support the research needs of  Whatcom students in the [Nursing](http://whatcom.edu/academics/degrees-certificates/nursing) program.
-* **Purpose:** Philosophy is a major academic field that covers many topics. WCC offers several courses on philosophy including Critical Thinking, Logic, Ethics and Religion. This guide is meant to help students find the best research sources both within the libraries collection and on the open web.
+* **Purpose:** WCC offers several courses on philosophy including Critical Thinking, Logic, Ethics and Religion. This guide is meant to help you find the best research sources both within the library's collection and on the open web.
 
 When in a Tabbed Area, can be under the H2 tab title "Introduction"
-* Political Science is the study of systems of government, politics, and power. WCC offers courses on Political Science including Political Theory, American Governement, International Relations, and Comparative Government. This guide is meant to help students find the best sources for both within the libraries collection and on the open web, as well as resources for keeping current on political news and events. [see here](http://librarywp.whatcom.edu/home/polisci/)
+* WCC offers courses on Political Science including Political Theory, American Governement, International Relations, and Comparative Government. This guide is meant to help you find the best sources for both within the library's collection and on the open web, as well as resources for keeping current on political news and events. [see here](http://librarywp.whatcom.edu/home/polisci/)
 
 # II. Print materials
 
