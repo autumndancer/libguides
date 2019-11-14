@@ -29,8 +29,9 @@ Call Numbers should always be displayed with spaces
  
 # III. Reference Sources
 ## H2 Reference Sources
-* [icon name="film"] FOD Category
-* [icon name="book"] Credo Topics: Geography. Expert background information for your research. 
+**Search these resources for background information**
+* [icon name="film"] FilmsOnDemand: Eduction
+* [icon name="book"] Credo Topics: Geography 
 
 
 
