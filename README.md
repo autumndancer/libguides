@@ -8,8 +8,8 @@ Note: Not a heading level.  Examples:
 * **Objective:** To support the research needs of  Whatcom students in the [Nursing](http://whatcom.edu/academics/degrees-certificates/nursing) program.
 * **Purpose:** Philosophy is a major academic field that covers many topics. WCC offers several courses on philosophy including Critical Thinking, Logic, Ethics and Religion. This guide is meant to help students find the best research sources both within the libraries collection and on the open web.
 
-When in a Tabbed Area, can be under the H2 tab title "Introduction"
-* Political Science is the study of systems of government, politics, and power. WCC offers courses on Political Science including Political Theory, American Governement, International Relations, and Comparative Government. This guide is meant to help students find the best sources for both within the libraries collection and on the open web, as well as resources for keeping current on political news and events. [see here](http://librarywp.whatcom.edu/home/polisci/)
+When in a **Tabbed Guide**, can be under the H2 tab titled: "Introduction"
+* Political Science is the study of systems of government, politics, and power. WCC offers courses on Political Science including Political Theory, American Governement, International Relations, and Comparative Government. This guide is meant to help students find the best sources for both within the libraries collection and on the open web, as well as resources for keeping current on political news and events. [see example here](http://librarywp.whatcom.edu/home/polisci/)
 
 # II. Print materials
 
@@ -36,16 +36,16 @@ Call Numbers should always be displayed with spaces
 
 
 # IV. Featured Databases (if exists)
-[row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
+<code>[row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
 [column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
-* ![display feature db](media/featureddb.png)
+* ![display feature db](media/featureddb.png)</code>
 
 # V. eBooks
 RSS Feed (Get code from Chrystie)
 * ![EBSCO RSS Feed](media/rssebsco.png)
 
 # VI. Journals 
-* Example top journals we have access to (OA or db) 
+* Example top journals we have access to (whether OA or db) 
 * Mention: [A-Z Journals]
 * Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
 
@@ -55,9 +55,9 @@ RSS Feed (Get code from Chrystie)
 
 
 <hr>
-
-
-
+<hr>
+<hr>
+<hr>
 
 
 
