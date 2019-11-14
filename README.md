@@ -13,7 +13,7 @@ When in a **Tabbed Guide**, can be under the H2 tab titled: "Introduction"
 
 # II. Print materials
 
-Call Numbers should always be displayed with spaces
+Call Numbers should always be displayed with spaces, bolded on the first part.
 
 **HB 345** .F45U78 2009
 
@@ -27,7 +27,8 @@ Call Numbers should always be displayed with spaces
 
 ## H2 Print Magazines (if exists)
 * Use if there is a small sample.  For example
-* ![art magazines](media/pmags.PNG) 
+ ![art magazines](media/pmags.PNG) 
+ 
  
 # III. Reference Sources
 ## H2 Reference Sources
@@ -41,21 +42,21 @@ Call Numbers should always be displayed with spaces
 # IV. Featured Databases (if exists)
 <code>[row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
 [column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]</code>
-* ![display feature db](media/featureddb.png)
+ ![display feature db](media/featureddb.png)
 
 
 # V. eBooks
 RSS Feed (Get code from Chrysty)
-* ![EBSCO RSS Feed](media/rssebsco.png)
+   ![EBSCO RSS Feed](media/rssebsco.png)
 
 
 # VI. Journals 
 * Example top journals we have access to (whether OA or db) 
-* Mention: [A-Z Journals]
-* Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
+* (optional) Mention: [A-Z Journals]
+* (optional) Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
 
 ## Journals/pMags together
-* ![journals and mags](media/journamags.png) 
+    ![journals and mags](media/journamags.png) 
 
 
 
