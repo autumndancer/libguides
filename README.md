@@ -47,6 +47,7 @@ Call Numbers should always be displayed with spaces, bolded on the first part.
 
 # V. eBooks
 RSS Feed (Get code from Chrysty)
+
    ![EBSCO RSS Feed](media/rssebsco.png)
 
 
@@ -56,7 +57,7 @@ RSS Feed (Get code from Chrysty)
 * (optional) Mention: Still can't find a particular article? Request articles through [Interlibrary Loan](http://library.whatcom.edu/services/interlibrary-loan)
 
 ## Journals/pMags together
-    ![journals and mags](media/journamags.png) 
+  ![journals and mags](media/journamags.png) 
 
 
 
