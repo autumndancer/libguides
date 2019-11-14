@@ -17,11 +17,13 @@ Call Numbers should always be displayed with spaces
 
 **HB 345** .F45U78 2009
 
-## H2 Browse the Stacks
+## H2 or H3 Browse the Stacks
 * Stacks range
     * Simple - use [dropcap]##[/dropcap] (max 2 letters).
     * Complex - use [spoiler][/spoiler]
     * Combo - [see example](http://librarywp.whatcom.edu/home/polisci/)
+    
+![Example Stacks](media/browsecomplete.PNG)
 
 ## H2 Print Magazines (if exists)
 * Use if there is a small sample.  For example
@@ -38,12 +40,14 @@ Call Numbers should always be displayed with spaces
 
 # IV. Featured Databases (if exists)
 <code>[row][column size="1/3"][pods name="authenticated_databa" slug="cmmc" template="Authdbs Logo (full) with Link"][/column]
-[column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]
-* ![display feature db](media/featureddb.png)</code>
+[column size="2/3"][pods name="authenticated_databa" slug="cmmc" template="AuthDbs - Single Line (wcc logo)"][/column][/row]</code>
+* ![display feature db](media/featureddb.png)
+
 
 # V. eBooks
-RSS Feed (Get code from Chrystie)
+RSS Feed (Get code from Chrysty)
 * ![EBSCO RSS Feed](media/rssebsco.png)
+
 
 # VI. Journals 
 * Example top journals we have access to (whether OA or db) 
@@ -61,7 +65,7 @@ RSS Feed (Get code from Chrystie)
 <hr>
 
 
-
+# Developer Notes
 
 * [Example Guide to draw upon for Ro](https://ulib.iupui.edu/guides/libguides-best-practices)
 
